@@ -1,1 +1,1 @@
-This is my first local git repository. 
+<strong>This is my first local git repository.</strong>
